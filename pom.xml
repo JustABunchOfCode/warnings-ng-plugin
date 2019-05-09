@@ -436,12 +436,6 @@
       <version>2.7</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>edu.hm.hafner</groupId>
-      <artifactId>analysis-model</artifactId>
-      <version>4.1.0-SNAPSHOT</version>
-      <scope>compile</scope>
-    </dependency>
 
     <!-- Declarative Pipeline -->
     <dependency>
